@@ -187,7 +187,7 @@ anthropic>=0.25.0     AI summary (optional)
 
 ## Ethical Use
 
-This tool is built for **authorized security testing only**. By running Recon47, you agree to:
+This tool is built for **Educational and Research purposes**. By running Recon47, you agree to:
 
 1. Only target systems you own or have explicit written permission to test
 2. Not use this tool for any malicious or illegal purposes
