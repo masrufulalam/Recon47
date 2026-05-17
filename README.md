@@ -193,6 +193,7 @@ This tool is built for **Educational and Research purposes**. By running Recon47
 2. Not use this tool for any malicious or illegal purposes
 3. Follow responsible disclosure practices for any findings
 4. Comply with all applicable laws in your jurisdiction
+Please use Recon47 responsibly. You are responsible for your actions. Misuse of this tool can lead to potential legal consequences. The developer assumes no liability and is not responsible for any misuse or damage caused by this program.
 
 ---
 
