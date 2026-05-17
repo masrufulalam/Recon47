@@ -185,6 +185,8 @@ anthropic>=0.25.0     AI summary (optional)
 
 ---
 
+https://drive.google.com/file/d/1oY-3_UfSfGmyAdvNCUPsmnz6SJKpfPBg/view?usp=sharing
+
 ## Ethical Use
 
 This tool is built for **Educational and Research purposes**. By running Recon47, you agree to:
