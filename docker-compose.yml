@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  recon47:
+    build: .
+    image: recon47:latest
+    volumes:
+      - ./reports:/app/reports
+    environment:
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
+    # Example: docker compose run recon47 example.com --full --ai-summary
