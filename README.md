@@ -185,6 +185,8 @@ anthropic>=0.25.0     AI summary (optional)
 
 ---
 
+##HTML Report
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4993e8d4-9d2b-4281-b612-74939080d18f" />
 
 
