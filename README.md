@@ -185,7 +185,8 @@ anthropic>=0.25.0     AI summary (optional)
 
 ---
 
-https://drive.google.com/file/d/1oY-3_UfSfGmyAdvNCUPsmnz6SJKpfPBg/view?usp=sharing
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4993e8d4-9d2b-4281-b612-74939080d18f" />
+
 
 ## Ethical Use
 
