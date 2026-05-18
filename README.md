@@ -190,32 +190,41 @@ Overview
 
 <img width="1882" height="935" alt="image" src="https://github.com/user-attachments/assets/7e066bff-ab70-45f2-b0a2-d85b204eec3b" />
 
+
 DNS Records & WHOIS
 
 <img width="1688" height="598" alt="image" src="https://github.com/user-attachments/assets/a77717f7-207c-4bac-991d-264a850149c3" />
+
 
 Subdomain
 
 <img width="1657" height="341" alt="image" src="https://github.com/user-attachments/assets/26778fef-60cb-4529-a587-d0963c9dc5ce" />
 
+
 Open Ports
+
 <img width="1660" height="298" alt="image" src="https://github.com/user-attachments/assets/5687bc43-c461-474d-b3c5-faa4b0832ea4" />
+
 
 Technologies & Fingerprintrs
 
 <img width="1672" height="213" alt="image" src="https://github.com/user-attachments/assets/da3a530f-9a06-4aad-bfc7-4da545ddd8f5" />
 
+
 Headers
 
 <img width="1650" height="751" alt="image" src="https://github.com/user-attachments/assets/4870c1f5-15f1-45e3-a722-a2170fe7a867" />
+
 
 Directories
 
 <img width="1664" height="415" alt="image" src="https://github.com/user-attachments/assets/66648a2a-b2e8-41ae-bd30-dd18c8a56eed" />
 
+
 Nikto Scan Results
 
 <img width="1660" height="939" alt="image" src="https://github.com/user-attachments/assets/5744bd3a-65a3-419e-b538-5a6396620c0a" />
+
 
 
 ## Ethical Use
